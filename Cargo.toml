@@ -23,7 +23,7 @@ serde = { version = "1.0", default-features = false, features=["derive"], option
 evdev-sys = { path = "evdev-sys", version = "0.2.1" }
 libc = "0.2.67"
 bitflags = "1.2.1"
-log = "0.4.8"
+log = "0.4.11"
 
 [package.metadata.docs.rs]
 features = ["serde"]
